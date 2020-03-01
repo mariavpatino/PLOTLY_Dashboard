@@ -46,5 +46,6 @@ Gauge charts, also known as dial charts or speedometer charts, show information 
 # Final Dashboard
 <br>
 <br>
+
 ![Final Dashboard](Images/DashBoard.PNG)
 
